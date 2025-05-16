@@ -1,7 +1,7 @@
 [gd_scene load_steps=8 format=3 uid="uid://beg452kqkfydx"]
 
 [ext_resource type="Script" path="res://Scripts/Player.gd" id="1"]
-[ext_resource type="Texture2D" uid="uid://d2oej36eq8vvl" path="res://Assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png" id="2"]
+[ext_resource type="Texture2D" uid="uid://d2oej36eq8vvl" path="res://assets/kenney_platformerpack/Spritesheets/spritesheet_alien.png" id="2"]
 
 [sub_resource type="RectangleShape2D" id="1"]
 size = Vector2(52.924, 76.884)
